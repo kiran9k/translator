@@ -1,0 +1,30 @@
+#location of input folder
+ip_folder_location=/home/kiran/Documents/input/obit_output
+
+#output folder location:
+op_folder_location=/home/kiran/Documents/tech/Output
+
+#input file type:
+# supported types: html,xml,txt
+ip_file_type=txt
+
+#output file type:
+# supported output types:txt,xml,all
+op_file_type=txt
+
+#translation  languages (should be same as that of google.translate code)
+#seperated by +
+lang=en+de+ja+ms+fi+mk+zh-CN
+
+#source lang: can be auto,en,or any other lang
+source=en
+
+#log file Location
+log_location=/home/kiran/Downloads/Java/Google_translate
+
+##successful ip files move to processed folder
+processed_folder=/home/kiran/Documents/tech/translate
+
+
+#Unsuccessful ip files move to non-processed folder
+unprocessed_folder=/home/kiran/Documents/tech/not-translate

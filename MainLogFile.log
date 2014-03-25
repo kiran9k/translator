@@ -1,0 +1,1693 @@
+25 Mar, 2014 11:00:26 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:00:26 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:00:46 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:00:51 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:00:51 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:00:52 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:00:57 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:00:57 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:00:57 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:02 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:02 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:02 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:07 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:07 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:07 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:12 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:12 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:12 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:17 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:17 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:17 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:22 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:22 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:22 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:27 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:01:27 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 380cc2e0-cbc2-4781-aa24-ccf0831f0fed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:27 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:01:39 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:01:40 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:01:45 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:50 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:50 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 418b5324-b05c-4698-beae-5799ff11b245
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:50 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:55 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:01:55 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Unable to locate element: {"method":"id","selector":"source"}
+Command duration or timeout: 5.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Session ID: 418b5324-b05c-4698-beae-5799ff11b245
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=26.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+25 Mar, 2014 11:01:55 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:02:42 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:02:42 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:02:50 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:02:55 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 11:02:55 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:02:58 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_ar.txt
+25 Mar, 2014 11:02:58 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:03:02 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_cs.txt
+25 Mar, 2014 11:03:02 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:03:05 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_da.txt
+25 Mar, 2014 11:03:05 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:03:09 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_af.txt
+25 Mar, 2014 11:03:09 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:03:12 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_ar.txt
+25 Mar, 2014 11:03:12 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:03:15 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_cs.txt
+25 Mar, 2014 11:03:15 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:03:18 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_da.txt
+25 Mar, 2014 11:03:18 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:03:20 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_af.txt
+25 Mar, 2014 11:03:20 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:03:23 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_ar.txt
+25 Mar, 2014 11:03:23 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:03:26 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_cs.txt
+25 Mar, 2014 11:03:26 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:03:28 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_da.txt
+25 Mar, 2014 11:39:26 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:39:26 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :0
+25 Mar, 2014 11:39:57 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:39:57 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:40:08 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:40:12 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 11:40:12 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:41:04 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:41:04 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:41:09 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:41:13 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 11:41:13 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:41:17 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_ar.txt
+25 Mar, 2014 11:41:17 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:41:20 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_cs.txt
+25 Mar, 2014 11:41:20 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:41:24 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_da.txt
+25 Mar, 2014 11:41:24 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:41:27 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_af.txt
+25 Mar, 2014 11:41:27 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:41:30 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_ar.txt
+25 Mar, 2014 11:41:30 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:41:33 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_cs.txt
+25 Mar, 2014 11:41:33 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:41:36 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_da.txt
+25 Mar, 2014 11:41:36 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:41:39 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_af.txt
+25 Mar, 2014 11:41:39 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:41:41 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_ar.txt
+25 Mar, 2014 11:41:42 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:41:44 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_cs.txt
+25 Mar, 2014 11:41:44 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 11:41:47 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_da.txt
+25 Mar, 2014 11:48:50 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:48:50 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:48:54 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:49:01 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 11:49:04 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_ar.txt
+25 Mar, 2014 11:49:08 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_cs.txt
+25 Mar, 2014 11:49:11 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_da.txt
+25 Mar, 2014 11:49:11 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:51:42 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:51:42 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:51:47 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:51:52 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:51:52 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:51:52 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Driver info: driver.version: RemoteWebDriver
+25 Mar, 2014 11:51:52 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Driver info: driver.version: RemoteWebDriver
+25 Mar, 2014 11:53:26 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:53:26 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:53:30 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:53:40 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 11:53:43 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_ar.txt
+25 Mar, 2014 11:53:47 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_cs.txt
+25 Mar, 2014 11:54:26 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:54:26 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:54:31 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:54:37 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 11:54:44 AM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 11:54:44 AM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 11:54:48 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 11:54:54 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 11:54:57 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_ar.txt
+25 Mar, 2014 11:55:01 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_cs.txt
+25 Mar, 2014 11:55:04 AM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_da.txt
+25 Mar, 2014 11:55:04 AM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:55:06 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 11:55:06 AM google_translate_selenium.main_entry_translate google_translate
+INFO: Error : Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Driver info: driver.version: RemoteWebDriver
+25 Mar, 2014 12:02:24 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 12:02:24 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 12:02:28 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 12:02:38 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 12:02:41 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_ar.txt
+25 Mar, 2014 12:02:45 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_cs.txt
+25 Mar, 2014 12:02:48 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_da.txt
+25 Mar, 2014 12:02:48 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 12:02:51 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_af.txt
+25 Mar, 2014 12:02:54 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_ar.txt
+25 Mar, 2014 12:02:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_cs.txt
+25 Mar, 2014 12:03:00 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_da.txt
+25 Mar, 2014 12:03:00 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 12:03:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_af.txt
+25 Mar, 2014 12:03:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_ar.txt
+25 Mar, 2014 12:03:08 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_cs.txt
+25 Mar, 2014 12:03:11 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_da.txt
+25 Mar, 2014 12:18:32 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 12:18:32 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 12:18:38 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 12:18:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 12:18:52 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 12:18:55 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_af.txt
+25 Mar, 2014 12:18:55 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 12:18:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_af.txt
+25 Mar, 2014 12:27:17 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 12:27:17 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 12:27:21 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 12:27:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 12:27:28 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 12:27:28 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 12:27:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_af.txt
+25 Mar, 2014 12:27:31 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 12:27:31 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 12:27:34 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_af.txt
+25 Mar, 2014 12:27:34 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 12:28:05 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 12:28:05 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+25 Mar, 2014 12:28:09 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 12:28:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+25 Mar, 2014 12:28:22 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+25 Mar, 2014 12:28:22 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 12:28:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_af.txt
+25 Mar, 2014 12:28:25 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+25 Mar, 2014 12:28:25 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+25 Mar, 2014 12:28:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_af.txt
+25 Mar, 2014 12:28:27 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+Mar 25, 2014 12:31:18 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+Mar 25, 2014 12:31:18 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :0
+Mar 25, 2014 12:32:34 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+Mar 25, 2014 12:32:34 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :3
+Mar 25, 2014 12:32:42 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+Mar 25, 2014 12:32:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/edu_20140324_10050_af.txt
+Mar 25, 2014 12:32:58 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/edu_20140324_10050.txt
+Mar 25, 2014 12:32:58 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+Mar 25, 2014 12:33:01 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/putin_20140324_10051_af.txt
+Mar 25, 2014 12:33:01 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/putin_20140324_10051.txt
+Mar 25, 2014 12:33:01 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+Mar 25, 2014 12:33:04 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/femin_20140324_10052_af.txt
+Mar 25, 2014 12:33:05 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/tech/translate/femin_20140324_10052.txt
+Mar 25, 2014 1:34:18 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+Mar 25, 2014 1:34:18 PM google_translate_selenium.main_entry_translate file_lister
+INFO: Error : not a vailed input directory
+Mar 25, 2014 1:34:18 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :0
+Mar 25, 2014 1:34:50 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+Mar 25, 2014 1:34:50 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :51
+Mar 25, 2014 1:35:08 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_30.txt
+Mar 25, 2014 1:35:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_30_en.txt
+Mar 25, 2014 1:35:23 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_30_de.txt
+Mar 25, 2014 1:35:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_30_ja.txt
+Mar 25, 2014 1:35:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_30_ms.txt
+Mar 25, 2014 1:35:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_30_fi.txt
+Mar 25, 2014 1:35:40 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_30_mk.txt
+Mar 25, 2014 1:35:44 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_30_zh-CN.txt
+Mar 25, 2014 1:35:44 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_30.txt
+Mar 25, 2014 1:35:44 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_46.txt
+Mar 25, 2014 1:35:47 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_46_en.txt
+Mar 25, 2014 1:35:50 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_46_de.txt
+Mar 25, 2014 1:35:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_46_ja.txt
+Mar 25, 2014 1:35:55 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_46_ms.txt
+Mar 25, 2014 1:35:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_46_fi.txt
+Mar 25, 2014 1:36:01 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_46_mk.txt
+Mar 25, 2014 1:36:04 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_46_zh-CN.txt
+Mar 25, 2014 1:36:04 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_46.txt
+Mar 25, 2014 1:36:04 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_12.txt
+Mar 25, 2014 1:36:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_12_en.txt
+Mar 25, 2014 1:36:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_12_de.txt
+Mar 25, 2014 1:36:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_12_ja.txt
+Mar 25, 2014 1:36:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_12_ms.txt
+Mar 25, 2014 1:36:20 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_12_fi.txt
+Mar 25, 2014 1:36:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_12_mk.txt
+Mar 25, 2014 1:36:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_12_zh-CN.txt
+Mar 25, 2014 1:36:27 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_12.txt
+Mar 25, 2014 1:36:27 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_15.txt
+Mar 25, 2014 1:36:30 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_15_en.txt
+Mar 25, 2014 1:36:33 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_15_de.txt
+Mar 25, 2014 1:36:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_15_ja.txt
+Mar 25, 2014 1:36:39 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_15_ms.txt
+Mar 25, 2014 1:36:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_15_fi.txt
+Mar 25, 2014 1:36:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_15_mk.txt
+Mar 25, 2014 1:36:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_15_zh-CN.txt
+Mar 25, 2014 1:36:49 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_15.txt
+Mar 25, 2014 1:36:49 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_4.txt
+Mar 25, 2014 1:36:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_4_en.txt
+Mar 25, 2014 1:36:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_4_de.txt
+Mar 25, 2014 1:37:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_4_ja.txt
+Mar 25, 2014 1:37:08 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_4_ms.txt
+Mar 25, 2014 1:37:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_4_fi.txt
+Mar 25, 2014 1:37:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_4_mk.txt
+Mar 25, 2014 1:37:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_4_zh-CN.txt
+Mar 25, 2014 1:37:24 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_4.txt
+Mar 25, 2014 1:37:24 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_41.txt
+Mar 25, 2014 1:37:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_41_en.txt
+Mar 25, 2014 1:37:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_41_de.txt
+Mar 25, 2014 1:37:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_41_ja.txt
+Mar 25, 2014 1:37:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_41_ms.txt
+Mar 25, 2014 1:37:38 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_41_fi.txt
+Mar 25, 2014 1:37:41 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_41_mk.txt
+Mar 25, 2014 1:37:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_41_zh-CN.txt
+Mar 25, 2014 1:37:43 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_41.txt
+Mar 25, 2014 1:37:43 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_34.txt
+Mar 25, 2014 1:37:48 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_34_en.txt
+Mar 25, 2014 1:37:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_34_de.txt
+Mar 25, 2014 1:37:59 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_34_ja.txt
+Mar 25, 2014 1:38:04 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_34_ms.txt
+Mar 25, 2014 1:38:11 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_34_fi.txt
+Mar 25, 2014 1:38:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_34_mk.txt
+Mar 25, 2014 1:38:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_34_zh-CN.txt
+Mar 25, 2014 1:38:22 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_34.txt
+Mar 25, 2014 1:38:22 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_39.txt
+Mar 25, 2014 1:38:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_39_en.txt
+Mar 25, 2014 1:38:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_39_de.txt
+Mar 25, 2014 1:38:37 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_39_ja.txt
+Mar 25, 2014 1:38:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_39_ms.txt
+Mar 25, 2014 1:38:48 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_39_fi.txt
+Mar 25, 2014 1:38:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_39_mk.txt
+Mar 25, 2014 1:38:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_39_zh-CN.txt
+Mar 25, 2014 1:38:58 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_39.txt
+Mar 25, 2014 1:38:58 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_29.txt
+Mar 25, 2014 1:39:01 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_29_en.txt
+Mar 25, 2014 1:39:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_29_de.txt
+Mar 25, 2014 1:39:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_29_ja.txt
+Mar 25, 2014 1:39:09 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_29_ms.txt
+Mar 25, 2014 1:39:12 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_29_fi.txt
+Mar 25, 2014 1:39:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_29_mk.txt
+Mar 25, 2014 1:39:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_29_zh-CN.txt
+Mar 25, 2014 1:39:17 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_29.txt
+Mar 25, 2014 1:39:17 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_47.txt
+Mar 25, 2014 1:39:20 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_47_en.txt
+Mar 25, 2014 1:39:23 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_47_de.txt
+Mar 25, 2014 1:39:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_47_ja.txt
+Mar 25, 2014 1:39:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_47_ms.txt
+Mar 25, 2014 1:39:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_47_fi.txt
+Mar 25, 2014 1:39:34 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_47_mk.txt
+Mar 25, 2014 1:39:37 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_47_zh-CN.txt
+Mar 25, 2014 1:39:37 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_47.txt
+Mar 25, 2014 1:39:37 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_18.txt
+Mar 25, 2014 1:39:41 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_18_en.txt
+Mar 25, 2014 1:39:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_18_de.txt
+Mar 25, 2014 1:39:51 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_18_ja.txt
+Mar 25, 2014 1:39:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_18_ms.txt
+Mar 25, 2014 1:40:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_18_fi.txt
+Mar 25, 2014 1:40:09 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_18_mk.txt
+Mar 25, 2014 1:40:15 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_18_zh-CN.txt
+Mar 25, 2014 1:40:15 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_18.txt
+Mar 25, 2014 1:40:15 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_3.txt
+Mar 25, 2014 1:40:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_3_en.txt
+Mar 25, 2014 1:40:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_3_de.txt
+Mar 25, 2014 1:40:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_3_ja.txt
+Mar 25, 2014 1:40:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_3_ms.txt
+Mar 25, 2014 1:41:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_3_fi.txt
+Mar 25, 2014 1:41:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_3_mk.txt
+Mar 25, 2014 1:41:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_3_zh-CN.txt
+Mar 25, 2014 1:41:28 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_3.txt
+Mar 25, 2014 1:41:28 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_48.txt
+Mar 25, 2014 1:41:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_48_en.txt
+Mar 25, 2014 1:41:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_48_de.txt
+Mar 25, 2014 1:41:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_48_ja.txt
+Mar 25, 2014 1:41:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_48_ms.txt
+Mar 25, 2014 1:42:01 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_48_fi.txt
+Mar 25, 2014 1:42:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_48_mk.txt
+Mar 25, 2014 1:42:15 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_48_zh-CN.txt
+Mar 25, 2014 1:42:15 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_48.txt
+Mar 25, 2014 1:42:15 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_6.txt
+Mar 25, 2014 1:42:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_6_en.txt
+Mar 25, 2014 1:42:20 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_6_de.txt
+Mar 25, 2014 1:42:23 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_6_ja.txt
+Mar 25, 2014 1:42:26 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_6_ms.txt
+Mar 25, 2014 1:42:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_6_fi.txt
+Mar 25, 2014 1:42:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_6_mk.txt
+Mar 25, 2014 1:42:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_6_zh-CN.txt
+Mar 25, 2014 1:42:35 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_6.txt
+Mar 25, 2014 1:42:35 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_33.txt
+Mar 25, 2014 1:42:39 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_33_en.txt
+Mar 25, 2014 1:42:44 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_33_de.txt
+Mar 25, 2014 1:42:48 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_33_ja.txt
+Mar 25, 2014 1:42:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_33_ms.txt
+Mar 25, 2014 1:42:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_33_fi.txt
+Mar 25, 2014 1:43:01 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_33_mk.txt
+Mar 25, 2014 1:43:05 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_33_zh-CN.txt
+Mar 25, 2014 1:43:05 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_33.txt
+Mar 25, 2014 1:43:05 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_10.txt
+Mar 25, 2014 1:43:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_10_en.txt
+Mar 25, 2014 1:43:18 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_10_de.txt
+Mar 25, 2014 1:43:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_10_ja.txt
+Mar 25, 2014 1:43:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_10_ms.txt
+Mar 25, 2014 1:43:39 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_10_fi.txt
+Mar 25, 2014 1:43:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_10_mk.txt
+Mar 25, 2014 1:43:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_10_zh-CN.txt
+Mar 25, 2014 1:43:53 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_10.txt
+Mar 25, 2014 1:43:53 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_5.txt
+Mar 25, 2014 1:43:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_5_en.txt
+Mar 25, 2014 1:44:00 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_5_de.txt
+Mar 25, 2014 1:44:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_5_ja.txt
+Mar 25, 2014 1:44:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_5_ms.txt
+Mar 25, 2014 1:44:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_5_fi.txt
+Mar 25, 2014 1:44:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_5_mk.txt
+Mar 25, 2014 1:44:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_5_zh-CN.txt
+Mar 25, 2014 1:44:17 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_5.txt
+Mar 25, 2014 1:44:17 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_49.txt
+Mar 25, 2014 1:44:20 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_49_en.txt
+Mar 25, 2014 1:44:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_49_de.txt
+Mar 25, 2014 1:44:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_49_ja.txt
+Mar 25, 2014 1:44:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_49_ms.txt
+Mar 25, 2014 1:44:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_49_fi.txt
+Mar 25, 2014 1:44:38 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_49_mk.txt
+Mar 25, 2014 1:44:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_49_zh-CN.txt
+Mar 25, 2014 1:44:42 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_49.txt
+Mar 25, 2014 1:44:42 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_28.txt
+Mar 25, 2014 1:44:45 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_28_en.txt
+Mar 25, 2014 1:44:48 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_28_de.txt
+Mar 25, 2014 1:44:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_28_ja.txt
+Mar 25, 2014 1:44:55 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_28_ms.txt
+Mar 25, 2014 1:44:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_28_fi.txt
+Mar 25, 2014 1:45:02 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_28_mk.txt
+Mar 25, 2014 1:45:05 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_28_zh-CN.txt
+Mar 25, 2014 1:45:05 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_28.txt
+Mar 25, 2014 1:45:05 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_31.txt
+Mar 25, 2014 1:45:08 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_31_en.txt
+Mar 25, 2014 1:45:11 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_31_de.txt
+Mar 25, 2014 1:45:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_31_ja.txt
+Mar 25, 2014 1:45:16 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_31_ms.txt
+Mar 25, 2014 1:45:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_31_fi.txt
+Mar 25, 2014 1:45:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_31_mk.txt
+Mar 25, 2014 1:45:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_31_zh-CN.txt
+Mar 25, 2014 1:45:25 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_31.txt
+Mar 25, 2014 1:45:25 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_23.txt
+Mar 25, 2014 1:45:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_23_en.txt
+Mar 25, 2014 1:45:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_23_de.txt
+Mar 25, 2014 1:45:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_23_ja.txt
+Mar 25, 2014 1:45:39 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_23_ms.txt
+Mar 25, 2014 1:45:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_23_fi.txt
+Mar 25, 2014 1:45:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_23_mk.txt
+Mar 25, 2014 1:45:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_23_zh-CN.txt
+Mar 25, 2014 1:45:49 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_23.txt
+Mar 25, 2014 1:45:49 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_11.txt
+Mar 25, 2014 1:45:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_11_en.txt
+Mar 25, 2014 1:45:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_11_de.txt
+Mar 25, 2014 1:45:59 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_11_ja.txt
+Mar 25, 2014 1:46:02 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_11_ms.txt
+Mar 25, 2014 1:46:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_11_fi.txt
+Mar 25, 2014 1:46:09 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_11_mk.txt
+Mar 25, 2014 1:46:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_11_zh-CN.txt
+Mar 25, 2014 1:46:13 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_11.txt
+Mar 25, 2014 1:46:13 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_24.txt
+Mar 25, 2014 1:46:16 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_24_en.txt
+Mar 25, 2014 1:46:20 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_24_de.txt
+Mar 25, 2014 1:46:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_24_ja.txt
+Mar 25, 2014 1:46:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_24_ms.txt
+Mar 25, 2014 1:46:33 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_24_fi.txt
+Mar 25, 2014 1:46:37 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_24_mk.txt
+Mar 25, 2014 1:46:41 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_24_zh-CN.txt
+Mar 25, 2014 1:46:41 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_24.txt
+Mar 25, 2014 1:46:41 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_19.txt
+Mar 25, 2014 1:46:45 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_19_en.txt
+Mar 25, 2014 1:46:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_19_de.txt
+Mar 25, 2014 1:46:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_19_ja.txt
+Mar 25, 2014 1:46:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_19_ms.txt
+Mar 25, 2014 1:47:02 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_19_fi.txt
+Mar 25, 2014 1:47:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_19_mk.txt
+Mar 25, 2014 1:47:11 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_19_zh-CN.txt
+Mar 25, 2014 1:47:11 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_19.txt
+Mar 25, 2014 1:47:11 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_35.txt
+Mar 25, 2014 1:47:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_35_en.txt
+Mar 25, 2014 1:47:16 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_35_de.txt
+Mar 25, 2014 1:47:18 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_35_ja.txt
+Mar 25, 2014 1:47:21 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_35_ms.txt
+Mar 25, 2014 1:47:23 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_35_fi.txt
+Mar 25, 2014 1:47:26 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_35_mk.txt
+Mar 25, 2014 1:47:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_35_zh-CN.txt
+Mar 25, 2014 1:47:29 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_35.txt
+Mar 25, 2014 1:47:29 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_37.txt
+Mar 25, 2014 1:47:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_37_en.txt
+Mar 25, 2014 1:47:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_37_de.txt
+Mar 25, 2014 1:47:39 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_37_ja.txt
+Mar 25, 2014 1:47:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_37_ms.txt
+Mar 25, 2014 1:47:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_37_fi.txt
+Mar 25, 2014 1:47:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_37_mk.txt
+Mar 25, 2014 1:47:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_37_zh-CN.txt
+Mar 25, 2014 1:47:53 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_37.txt
+Mar 25, 2014 1:47:53 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_32.txt
+Mar 25, 2014 1:47:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_32_en.txt
+Mar 25, 2014 1:47:59 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_32_de.txt
+Mar 25, 2014 1:48:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_32_ja.txt
+Mar 25, 2014 1:48:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_32_ms.txt
+Mar 25, 2014 1:48:09 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_32_fi.txt
+Mar 25, 2014 1:48:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_32_mk.txt
+Mar 25, 2014 1:48:16 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_32_zh-CN.txt
+Mar 25, 2014 1:48:16 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_32.txt
+Mar 25, 2014 1:48:16 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_36.txt
+Mar 25, 2014 1:48:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_36_en.txt
+Mar 25, 2014 1:48:21 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_36_de.txt
+Mar 25, 2014 1:48:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_36_ja.txt
+Mar 25, 2014 1:48:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_36_ms.txt
+Mar 25, 2014 1:48:30 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_36_fi.txt
+Mar 25, 2014 1:48:33 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_36_mk.txt
+Mar 25, 2014 1:48:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_36_zh-CN.txt
+Mar 25, 2014 1:48:35 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_36.txt
+Mar 25, 2014 1:48:35 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_43.txt
+Mar 25, 2014 1:48:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_43_en.txt
+Mar 25, 2014 1:48:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_43_de.txt
+Mar 25, 2014 1:49:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_43_ja.txt
+Mar 25, 2014 1:49:16 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_43_ms.txt
+Mar 25, 2014 1:49:26 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_43_fi.txt
+Mar 25, 2014 1:49:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_43_mk.txt
+Mar 25, 2014 1:49:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_43_zh-CN.txt
+Mar 25, 2014 1:49:46 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_43.txt
+Mar 25, 2014 1:49:46 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_45.txt
+Mar 25, 2014 1:49:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_45_en.txt
+Mar 25, 2014 1:49:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_45_de.txt
+Mar 25, 2014 1:49:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_45_ja.txt
+Mar 25, 2014 1:50:00 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_45_ms.txt
+Mar 25, 2014 1:50:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_45_fi.txt
+Mar 25, 2014 1:50:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_45_mk.txt
+Mar 25, 2014 1:50:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_45_zh-CN.txt
+Mar 25, 2014 1:50:10 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_45.txt
+Mar 25, 2014 1:50:10 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_21.txt
+Mar 25, 2014 1:50:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_21_en.txt
+Mar 25, 2014 1:50:18 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_21_de.txt
+Mar 25, 2014 1:50:23 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_21_ja.txt
+Mar 25, 2014 1:50:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_21_ms.txt
+Mar 25, 2014 1:50:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_21_fi.txt
+Mar 25, 2014 1:50:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_21_mk.txt
+Mar 25, 2014 1:50:40 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_21_zh-CN.txt
+Mar 25, 2014 1:50:40 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_21.txt
+Mar 25, 2014 1:50:40 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_26.txt
+Mar 25, 2014 1:50:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_26_en.txt
+Mar 25, 2014 1:50:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_26_de.txt
+Mar 25, 2014 1:50:50 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_26_ja.txt
+Mar 25, 2014 1:50:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_26_ms.txt
+Mar 25, 2014 1:50:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_26_fi.txt
+Mar 25, 2014 1:50:59 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_26_mk.txt
+Mar 25, 2014 1:51:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_26_zh-CN.txt
+Mar 25, 2014 1:51:03 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_26.txt
+Mar 25, 2014 1:51:03 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_9.txt
+Mar 25, 2014 1:51:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_9_en.txt
+Mar 25, 2014 1:51:09 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_9_de.txt
+Mar 25, 2014 1:51:12 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_9_ja.txt
+Mar 25, 2014 1:51:15 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_9_ms.txt
+Mar 25, 2014 1:51:18 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_9_fi.txt
+Mar 25, 2014 1:51:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_9_mk.txt
+Mar 25, 2014 1:51:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_9_zh-CN.txt
+Mar 25, 2014 1:51:25 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_9.txt
+Mar 25, 2014 1:51:25 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_1.txt
+Mar 25, 2014 1:51:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_1_en.txt
+Mar 25, 2014 1:51:40 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_1_de.txt
+Mar 25, 2014 1:51:47 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_1_ja.txt
+Mar 25, 2014 1:51:55 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_1_ms.txt
+Mar 25, 2014 1:52:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_1_fi.txt
+Mar 25, 2014 1:52:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_1_mk.txt
+Mar 25, 2014 1:52:18 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_1_zh-CN.txt
+Mar 25, 2014 1:52:18 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_1.txt
+Mar 25, 2014 1:52:18 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_25.txt
+Mar 25, 2014 1:52:21 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_25_en.txt
+Mar 25, 2014 1:52:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_25_de.txt
+Mar 25, 2014 1:52:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_25_ja.txt
+Mar 25, 2014 1:52:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_25_ms.txt
+Mar 25, 2014 1:52:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_25_fi.txt
+Mar 25, 2014 1:52:40 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_25_mk.txt
+Mar 25, 2014 1:52:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_25_zh-CN.txt
+Mar 25, 2014 1:52:43 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_25.txt
+Mar 25, 2014 1:52:43 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_20.txt
+Mar 25, 2014 1:52:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_20_en.txt
+Mar 25, 2014 1:52:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_20_de.txt
+Mar 25, 2014 1:52:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_20_ja.txt
+Mar 25, 2014 1:52:54 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_20_ms.txt
+Mar 25, 2014 1:52:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_20_fi.txt
+Mar 25, 2014 1:53:00 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_20_mk.txt
+Mar 25, 2014 1:53:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_20_zh-CN.txt
+Mar 25, 2014 1:53:03 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_20.txt
+Mar 25, 2014 1:53:03 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_16.txt
+Mar 25, 2014 1:53:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_16_en.txt
+Mar 25, 2014 1:53:09 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_16_de.txt
+Mar 25, 2014 1:53:12 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_16_ja.txt
+Mar 25, 2014 1:53:15 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_16_ms.txt
+Mar 25, 2014 1:53:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_16_fi.txt
+Mar 25, 2014 1:53:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_16_mk.txt
+Mar 25, 2014 1:53:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_16_zh-CN.txt
+Mar 25, 2014 1:53:25 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_16.txt
+Mar 25, 2014 1:53:25 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_44.txt
+Mar 25, 2014 1:53:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_44_en.txt
+Mar 25, 2014 1:53:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_44_de.txt
+Mar 25, 2014 1:53:34 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_44_ja.txt
+Mar 25, 2014 1:53:37 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_44_ms.txt
+Mar 25, 2014 1:53:40 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_44_fi.txt
+Mar 25, 2014 1:53:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_44_mk.txt
+Mar 25, 2014 1:53:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_44_zh-CN.txt
+Mar 25, 2014 1:53:46 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_44.txt
+Mar 25, 2014 1:53:46 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_38.txt
+Mar 25, 2014 1:53:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_38_en.txt
+Mar 25, 2014 1:53:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_38_de.txt
+Mar 25, 2014 1:53:54 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_38_ja.txt
+Mar 25, 2014 1:53:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_38_ms.txt
+Mar 25, 2014 1:54:00 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_38_fi.txt
+Mar 25, 2014 1:54:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_38_mk.txt
+Mar 25, 2014 1:54:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_38_zh-CN.txt
+Mar 25, 2014 1:54:06 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_38.txt
+Mar 25, 2014 1:54:06 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_7.txt
+Mar 25, 2014 1:54:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_7_en.txt
+Mar 25, 2014 1:54:15 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_7_de.txt
+Mar 25, 2014 1:54:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_7_ja.txt
+Mar 25, 2014 1:54:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_7_ms.txt
+Mar 25, 2014 1:54:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_7_fi.txt
+Mar 25, 2014 1:54:33 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_7_mk.txt
+Mar 25, 2014 1:54:38 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_7_zh-CN.txt
+Mar 25, 2014 1:54:38 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_7.txt
+Mar 25, 2014 1:54:38 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_51.txt
+Mar 25, 2014 1:54:40 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_51_en.txt
+Mar 25, 2014 1:54:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_51_de.txt
+Mar 25, 2014 1:54:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_51_ja.txt
+Mar 25, 2014 1:54:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_51_ms.txt
+Mar 25, 2014 1:54:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_51_fi.txt
+Mar 25, 2014 1:54:54 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_51_mk.txt
+Mar 25, 2014 1:54:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_51_zh-CN.txt
+Mar 25, 2014 1:54:57 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_51.txt
+Mar 25, 2014 1:54:57 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_22.txt
+Mar 25, 2014 1:55:02 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_22_en.txt
+Mar 25, 2014 1:55:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_22_de.txt
+Mar 25, 2014 1:55:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_22_ja.txt
+Mar 25, 2014 1:55:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_22_ms.txt
+Mar 25, 2014 1:55:26 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_22_fi.txt
+Mar 25, 2014 1:55:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_22_mk.txt
+Mar 25, 2014 1:55:39 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_22_zh-CN.txt
+Mar 25, 2014 1:55:39 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_22.txt
+Mar 25, 2014 1:55:39 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_13.txt
+Mar 25, 2014 1:55:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_13_en.txt
+Mar 25, 2014 1:55:46 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_13_de.txt
+Mar 25, 2014 1:55:51 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_13_ja.txt
+Mar 25, 2014 1:55:55 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_13_ms.txt
+Mar 25, 2014 1:55:59 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_13_fi.txt
+Mar 25, 2014 1:56:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_13_mk.txt
+Mar 25, 2014 1:56:07 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_13_zh-CN.txt
+Mar 25, 2014 1:56:07 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_13.txt
+Mar 25, 2014 1:56:07 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_50.txt
+Mar 25, 2014 1:56:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_50_en.txt
+Mar 25, 2014 1:56:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_50_de.txt
+Mar 25, 2014 1:56:16 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_50_ja.txt
+Mar 25, 2014 1:56:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_50_ms.txt
+Mar 25, 2014 1:56:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_50_fi.txt
+Mar 25, 2014 1:56:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_50_mk.txt
+Mar 25, 2014 1:56:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_50_zh-CN.txt
+Mar 25, 2014 1:56:28 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_50.txt
+Mar 25, 2014 1:56:28 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_14.txt
+Mar 25, 2014 1:56:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_14_en.txt
+Mar 25, 2014 1:56:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_14_de.txt
+Mar 25, 2014 1:56:41 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_14_ja.txt
+Mar 25, 2014 1:56:45 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_14_ms.txt
+Mar 25, 2014 1:56:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_14_fi.txt
+Mar 25, 2014 1:56:54 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_14_mk.txt
+Mar 25, 2014 1:56:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_14_zh-CN.txt
+Mar 25, 2014 1:56:58 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_14.txt
+Mar 25, 2014 1:56:58 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+Mar 25, 2014 1:57:04 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_en.txt
+Mar 25, 2014 1:57:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_de.txt
+Mar 25, 2014 1:57:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+Mar 25, 2014 1:57:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ms.txt
+Mar 25, 2014 1:58:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_fi.txt
+Mar 25, 2014 1:58:33 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_mk.txt
+Mar 25, 2014 1:58:54 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_zh-CN.txt
+Mar 25, 2014 1:58:54 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+Mar 25, 2014 1:58:54 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_40.txt
+Mar 25, 2014 1:59:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_en.txt
+Mar 25, 2014 1:59:33 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_de.txt
+Mar 25, 2014 1:59:52 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_ja.txt
+Mar 25, 2014 2:00:12 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_ms.txt
+Mar 25, 2014 2:00:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_fi.txt
+Mar 25, 2014 2:00:51 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_mk.txt
+Mar 25, 2014 2:01:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_zh-CN.txt
+Mar 25, 2014 2:01:10 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_40.txt
+Mar 25, 2014 2:01:10 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_17.txt
+Mar 25, 2014 2:01:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_en.txt
+Mar 25, 2014 2:01:47 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_de.txt
+Mar 25, 2014 2:02:05 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_ja.txt
+Mar 25, 2014 2:02:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_ms.txt
+Mar 25, 2014 2:02:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_fi.txt
+Mar 25, 2014 2:03:01 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_mk.txt
+Mar 25, 2014 2:03:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_zh-CN.txt
+Mar 25, 2014 2:03:19 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_17.txt
+Mar 25, 2014 2:03:19 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_42.txt
+Mar 25, 2014 2:03:38 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_en.txt
+Mar 25, 2014 2:03:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_de.txt
+Mar 25, 2014 2:04:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_ja.txt
+Mar 25, 2014 2:04:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_ms.txt
+Mar 25, 2014 2:04:55 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_fi.txt
+Mar 25, 2014 2:05:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_mk.txt
+Mar 25, 2014 2:05:33 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_zh-CN.txt
+Mar 25, 2014 2:05:33 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_42.txt
+Mar 25, 2014 2:05:33 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_8.txt
+Mar 25, 2014 2:05:54 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_en.txt
+Mar 25, 2014 2:06:15 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_de.txt
+Mar 25, 2014 2:06:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_ja.txt
+Mar 25, 2014 2:06:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_ms.txt
+Mar 25, 2014 2:07:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_fi.txt
+Mar 25, 2014 2:07:38 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_mk.txt
+Mar 25, 2014 2:07:59 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_zh-CN.txt
+Mar 25, 2014 2:07:59 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_8.txt
+Mar 25, 2014 2:07:59 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_27.txt
+Mar 25, 2014 2:08:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_en.txt
+Mar 25, 2014 2:08:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_de.txt
+Mar 25, 2014 2:08:55 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_ja.txt
+Mar 25, 2014 2:09:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_ms.txt
+Mar 25, 2014 2:09:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_fi.txt
+Mar 25, 2014 2:09:51 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_mk.txt
+Mar 25, 2014 2:10:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_zh-CN.txt
+Mar 25, 2014 2:10:10 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_27.txt
+Mar 25, 2014 3:37:26 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+Mar 25, 2014 3:37:27 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :5
+Mar 25, 2014 3:37:34 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+Mar 25, 2014 3:37:50 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_en.txt
+Mar 25, 2014 3:37:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_de.txt
+Mar 25, 2014 3:38:20 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+25 Mar, 2014 3:48:59 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 3:49:00 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :5
+25 Mar, 2014 3:49:05 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 3:49:19 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_en.txt
+25 Mar, 2014 3:49:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_de.txt
+25 Mar, 2014 3:49:50 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+25 Mar, 2014 3:50:14 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ms.txt
+25 Mar, 2014 3:50:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_fi.txt
+25 Mar, 2014 3:50:43 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_mk.txt
+25 Mar, 2014 3:51:06 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_zh-CN.txt
+25 Mar, 2014 3:51:06 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 3:51:06 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_40.txt
+25 Mar, 2014 3:51:12 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_en.txt
+25 Mar, 2014 3:51:17 PM google_translate_selenium.google_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/input/obit_output/mas_40.txt
+25 Mar, 2014 3:51:17 PM google_translate_selenium.google_translate google_translate
+INFO: Error : Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Driver info: driver.version: RemoteWebDriver
+25 Mar, 2014 3:54:17 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 3:54:17 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :5
+25 Mar, 2014 3:54:21 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 3:54:34 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_en.txt
+25 Mar, 2014 3:54:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_de.txt
+25 Mar, 2014 3:55:05 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+25 Mar, 2014 3:55:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ms.txt
+25 Mar, 2014 3:55:36 PM google_translate_selenium.google_translate google_translate
+INFO: Error :file not processed /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 3:55:36 PM google_translate_selenium.google_translate google_translate
+INFO: Error : Error communicating with the remote browser. It may have died.
+Build info: version: '2.39.0', revision: 'ff23eac', time: '2013-12-16 16:11:15'
+System info: host: 'NSBLR-130', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '3.5.0-22-generic', java.version: '1.6.0_27'
+Driver info: driver.version: RemoteWebDriver
+25 Mar, 2014 3:56:05 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 3:56:05 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :5
+25 Mar, 2014 3:56:08 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 3:56:18 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_en.txt
+25 Mar, 2014 3:56:26 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_de.txt
+25 Mar, 2014 3:56:34 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+25 Mar, 2014 3:56:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ms.txt
+25 Mar, 2014 3:56:50 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_fi.txt
+25 Mar, 2014 3:57:12 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_mk.txt
+25 Mar, 2014 3:57:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_zh-CN.txt
+25 Mar, 2014 3:57:36 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 3:57:36 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_40.txt
+25 Mar, 2014 3:57:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_en.txt
+25 Mar, 2014 3:57:48 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_de.txt
+25 Mar, 2014 3:57:56 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_ja.txt
+25 Mar, 2014 3:58:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_ms.txt
+25 Mar, 2014 3:58:10 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_fi.txt
+25 Mar, 2014 3:58:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_mk.txt
+25 Mar, 2014 3:58:24 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_40_zh-CN.txt
+25 Mar, 2014 3:58:24 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_40.txt
+25 Mar, 2014 3:58:24 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_17.txt
+25 Mar, 2014 3:58:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_en.txt
+25 Mar, 2014 3:58:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_de.txt
+25 Mar, 2014 3:58:36 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_ja.txt
+25 Mar, 2014 3:58:40 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_ms.txt
+25 Mar, 2014 3:58:44 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_fi.txt
+25 Mar, 2014 3:58:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_mk.txt
+25 Mar, 2014 3:58:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_17_zh-CN.txt
+25 Mar, 2014 3:58:53 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_17.txt
+25 Mar, 2014 3:58:53 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_42.txt
+25 Mar, 2014 3:58:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_en.txt
+25 Mar, 2014 3:59:03 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_de.txt
+25 Mar, 2014 3:59:09 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_ja.txt
+25 Mar, 2014 3:59:16 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_ms.txt
+25 Mar, 2014 3:59:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_fi.txt
+25 Mar, 2014 3:59:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_mk.txt
+25 Mar, 2014 3:59:34 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_42_zh-CN.txt
+25 Mar, 2014 3:59:34 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_42.txt
+25 Mar, 2014 3:59:34 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_8.txt
+25 Mar, 2014 3:59:41 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_en.txt
+25 Mar, 2014 3:59:49 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_de.txt
+25 Mar, 2014 3:59:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_ja.txt
+25 Mar, 2014 4:00:05 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_ms.txt
+25 Mar, 2014 4:00:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_fi.txt
+25 Mar, 2014 4:00:20 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_mk.txt
+25 Mar, 2014 4:00:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_8_zh-CN.txt
+25 Mar, 2014 4:00:27 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_8.txt
+25 Mar, 2014 4:04:50 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:04:50 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :2
+25 Mar, 2014 4:04:53 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:05:05 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_en.txt
+25 Mar, 2014 4:05:13 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_de.txt
+25 Mar, 2014 4:05:35 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+25 Mar, 2014 4:07:05 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:07:05 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :2
+25 Mar, 2014 4:07:08 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:07:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_en.txt
+25 Mar, 2014 4:07:25 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_de.txt
+25 Mar, 2014 4:07:57 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+25 Mar, 2014 4:08:21 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ms.txt
+25 Mar, 2014 4:08:28 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_fi.txt
+25 Mar, 2014 4:08:59 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_mk.txt
+25 Mar, 2014 4:09:22 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_zh-CN.txt
+25 Mar, 2014 4:09:22 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:09:22 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_27.txt
+25 Mar, 2014 4:09:27 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_en.txt
+25 Mar, 2014 4:09:31 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_de.txt
+25 Mar, 2014 4:09:37 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_ja.txt
+25 Mar, 2014 4:09:42 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_ms.txt
+25 Mar, 2014 4:09:48 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_fi.txt
+25 Mar, 2014 4:09:53 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_mk.txt
+25 Mar, 2014 4:09:58 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_27_zh-CN.txt
+25 Mar, 2014 4:09:58 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_27.txt
+25 Mar, 2014 4:13:08 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:13:08 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:13:12 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:13:53 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:14:17 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_mk.txt
+25 Mar, 2014 4:14:17 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:15:26 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:15:26 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:15:30 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:16:07 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:16:32 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_mk.txt
+25 Mar, 2014 4:16:32 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:18:49 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:18:49 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:18:53 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:19:31 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:19:31 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:20:03 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:20:03 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:20:07 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:20:41 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:20:41 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:25:10 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:25:10 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:25:14 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:26:00 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:26:00 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:29:02 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:29:02 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:29:06 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:29:48 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:29:48 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:31:21 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:31:21 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:31:25 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:32:08 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:32:08 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:33:34 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:33:34 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:33:38 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:34:23 PM google_translate_selenium.google_translate google_translate
+INFO: content translated  failed for ja /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:34:23 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:36:43 PM google_translate_selenium.main_entry_translate main
+INFO: Main program started
+25 Mar, 2014 4:36:43 PM google_translate_selenium.main_entry_translate main
+INFO: no of files present in input  directory :1
+25 Mar, 2014 4:36:46 PM google_translate_selenium.read_contents read_from_txt
+INFO: read from txt successfull :/home/kiran/Documents/input/obit_output/mas_2.txt
+25 Mar, 2014 4:37:29 PM google_translate_selenium.output_writer txt_writer
+INFO: write to file successful /home/kiran/Documents/tech/Output/mas_2_ja.txt
+25 Mar, 2014 4:37:29 PM google_translate_selenium.main_entry_translate main
+INFO: File moved to processed folder: /home/kiran/Documents/input/obit_output/mas_2.txt
