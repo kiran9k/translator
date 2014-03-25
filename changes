@@ -1,0 +1,8 @@
+25/03/2014	added log files(main log& errorlog)
+		added source lang
+		added translation lang
+		added processed folder location
+		added non-processed folder location
+		added log file location
+		multiple lang tranlsation support added
+		triple check condition added for files whose length != input content length
